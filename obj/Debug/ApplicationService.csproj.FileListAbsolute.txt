@@ -1,0 +1,6 @@
+c:\users\aram.avetisyan\documents\visual studio 2013\Projects\ApplicationService\ApplicationService\bin\ApplicationService.dll.config
+c:\users\aram.avetisyan\documents\visual studio 2013\Projects\ApplicationService\ApplicationService\bin\ApplicationService.dll
+c:\users\aram.avetisyan\documents\visual studio 2013\Projects\ApplicationService\ApplicationService\bin\ApplicationService.pdb
+c:\users\aram.avetisyan\documents\visual studio 2013\Projects\ApplicationService\ApplicationService\obj\Debug\ApplicationService.csprojResolveAssemblyReference.cache
+c:\users\aram.avetisyan\documents\visual studio 2013\Projects\ApplicationService\ApplicationService\obj\Debug\ApplicationService.dll
+c:\users\aram.avetisyan\documents\visual studio 2013\Projects\ApplicationService\ApplicationService\obj\Debug\ApplicationService.pdb
