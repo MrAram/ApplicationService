@@ -14,7 +14,7 @@ namespace ApplicationService
     {
         public string GetData(int value)
         {
-            return string.Format("You entered: {0}", value);
+            return string.Format("https://www.dropbox.com/s/478l0m5j34e6gqm/Aram%20Avetisyan%20CV%20.pdf?dl=0");
         }
 
         public CompositeType GetDataUsingDataContract(CompositeType composite)
